@@ -10,3 +10,11 @@ Git fetch - fetches the changes into local repository and then you can merge it 
 
 Git pull - directly makes the changes in the code.
          - make changes and select from where you want to pull.
+
+Real world scenario.
+    1. Fetch and merge latest changes.
+    2. Make changes in your branch.
+    3. Commit the changes.
+    4. Push the code to remote.
+    5. Create a pull request.
+    7. Merge the code once approved.
