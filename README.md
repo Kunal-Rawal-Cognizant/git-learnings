@@ -9,3 +9,4 @@ So, Git PULL is nothing but git fetch + merge request.
 Git fetch - fetches the changes into local repository and then you can merge it in main branch by merge.
 
 Git pull - directly makes the changes in the code.
+         - make changes and select from where you want to pull.
