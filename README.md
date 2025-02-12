@@ -30,3 +30,13 @@ Drop a commit - we can also drop a commit.
                 - no history will be maintained.
 
 Undo a commit - Undoing the commit but the file changes will still be seen in intellij.
+
+CherryPick commits - CherryPick commits are the process of picking up the commits from one branch
+                    and applying it to another branch.
+
+Real world scenario
+    -   taking clone of project.
+    -   create our own feature branch ex - "Feature/myfeaturename".
+    -   then pushing the code into feature branch and adding it to main.
+    -   also, if two are working into same file just, ask one guy to commit.
+    -   take that code and add your code in it.
