@@ -23,6 +23,10 @@ Revert a commit - basically we can revert back from any code.
                 - if we put code in intellij and commit and if we revert it.
                 - code vanishes from intellij if we do local commit. 
                 - we can check this is git log.
+                - History will be maintained in the git log.
 
 Drop a commit - we can also drop a commit.
                 - no traces leave. everything will be removed.
+                - no history will be maintained.
+
+Undo a commit - Undoing the commit but the file changes will still be seen in intellij.
