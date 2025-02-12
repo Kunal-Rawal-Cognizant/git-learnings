@@ -18,3 +18,11 @@ Real world scenario.
     4. Push the code to remote.
     5. Create a pull request.
     7. Merge the code once approved.
+
+Revert a commit - basically we can revert back from any code.
+                - if we put code in intellij and commit and if we revert it.
+                - code vanishes from intellij if we do local commit. 
+                - we can check this is git log.
+
+Drop a commit - we can also drop a commit.
+                - no traces leave. everything will be removed.
