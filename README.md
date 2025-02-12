@@ -18,5 +18,3 @@ Real world scenario.
     4. Push the code to remote.
     5. Create a pull request.
     7. Merge the code once approved.
-
-Trying Revert commit - this will revert back the changes
